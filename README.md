@@ -1,6 +1,7 @@
 # Glosario-HackWomen
 Glosario basico 
 
+
 **Agile**
 
 Es una metodología para el desarrollo de proyectos, tiene como objetivo desarrollar productos y servicios que precisan rapidez y flexibilidad a través de equipos de trabajo multidisciplinarios. Las principales ventajas de agile son: 
