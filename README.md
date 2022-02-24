@@ -1,0 +1,2 @@
+# Glosario-HackWomen
+Glosario basico 
