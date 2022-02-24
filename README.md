@@ -316,13 +316,12 @@ Un administrador de sistemas es la persona que tiene la responsabilidad de imple
 
 EL tipo de variable nos indica el conjunto de valores que puede tomar y las operaciones que pueden realizarse con ella. Existen cinto tipos de datos básicos: 
 
-| **Tipo de datos**	| **Descripción**											|
---------------------------------------------------------------------------------------------------------------------------------|
-| *int* 		| Cantidad entera											|
-| *char*		| Carácter												|
-| *float*		| Almacena valores reales en un punto flotante								|
-| *double*		| Almacena valores reales en doble precisión 								|
-| *void* 		| Se utiliza para definir una función que no devuelve ningún valor o declarar punteros genéricos 	|
+**Tipo de datos**  	**Descripción** 
+*int*  			Cantidad entera 
+*char* 			Carácter 
+*float* 		Almacena valores reales en un punto flotante 
+*double* 		Almacena valores reales en doble precisión 
+*void* 			Se utiliza para definir una función que no devuelve ningún valor o declarar punteros genéricos 
 
 
 **UI (interfaz de usuario)**
