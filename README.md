@@ -1,6 +1,7 @@
 # Glosario-HackWomen
 Glosario basico 
 
+![glosario](https://user-images.githubusercontent.com/98141605/155614482-610671cf-c9d6-43f1-a58f-3c3ff6a0d830.png)
 
 **Agile**
 
@@ -314,12 +315,15 @@ Un administrador de sistemas es la persona que tiene la responsabilidad de imple
 **Tipos de datos**
 
 EL tipo de variable nos indica el conjunto de valores que puede tomar y las operaciones que pueden realizarse con ella. Existen cinto tipos de datos básicos: 
-**Tipo de datos**	**Descripción**
-*int* 			Cantidad entera
-*char*			Carácter
-*float*			Almacena valores reales en un punto flotante
-*double*			Almacena valores reales en doble precisión 
-*void* 			Se utiliza para definir una función que no devuelve ningún valor o declarar punteros genéricos 
+
+| **Tipo de datos**	| **Descripción**											|
+--------------------------------------------------------------------------------------------------------------------------------|
+| *int* 		| Cantidad entera											|
+| *char*		| Carácter												|
+| *float*		| Almacena valores reales en un punto flotante								|
+| *double*		| Almacena valores reales en doble precisión 								|
+| *void* 		| Se utiliza para definir una función que no devuelve ningún valor o declarar punteros genéricos 	|
+
 
 **UI (interfaz de usuario)**
 
