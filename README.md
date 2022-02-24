@@ -1,6 +1,8 @@
 # Glosario-HackWomen
 Glosario basico 
+
 **Agile**
+
 Es una metodología para el desarrollo de proyectos, tiene como objetivo desarrollar productos y servicios que precisan rapidez y flexibilidad a través de equipos de trabajo multidisciplinarios. Las principales ventajas de agile son: 
 1.	Mejora la calidad:  minimiza los errores y mejora la experiencia 
 2.	Mayor compromiso: mejora la satisfacción del empleado  
@@ -8,14 +10,17 @@ Es una metodología para el desarrollo de proyectos, tiene como objetivo desarro
 4.	Aumento de la productividad: Mejora la producción según las prioridades del proyecto. 
 
 **Agility**
+
 La habilidad de crear y responder al cambio para generar beneficios en un entorno de trabajo incluye la infraestructura. 
 
 **Algoritmo**
+
 Es cualquier procedimiento computacional bien definido que parte de un estado inicial y un valor o conjunto de valores de entrada, a los cuales se les aplica una secuencia de pasos computacionales finitos, produciendo una salida o solución. 
 API o interfaz de programación de aplicaciones
 Es un conjunto de definiciones y protocolos que se usa para diseñar e integrar el software de las aplicaciones; otorgan flexibilidad, simplifican el diseño, la administración y el uso de aplicaciones al permitir que los productos y servicios se comuniquen con otros si la necesidad de saber cómo están implementados.  
 
 **Array**
+
 Es un medio de guardar un conjunto de objetos de la misma clase. Se accede a cada elemento individual del array mediante un numero entero denominado índice. 0 es el índice del primer elemento y n-1 es el índice del último elemento, siendo *n*, la dimensión del array. Pasos que seguir para usarlos: 
 1.	Declarar el array 
 2.	Crear el array 
@@ -23,19 +28,23 @@ Es un medio de guardar un conjunto de objetos de la misma clase. Se accede a cad
 4.	Usar el array 
 
 **Backend**
+
 Es la capa de acceso a datos de un software o cualquier dispositivo, que no es directamente accesible por los usuarios. Contiene la lógica de la aplicación que maneja dichos datos. El backend también accede al servidor, que es la aplicación especializada que entiende la forma en la que el navegador hace solicitudes. 
 Los desarrolladores backend se encargan de hacer que la lógica del sitio funcione correctamente, la información se transmite de manera segura y el desempeño de la aplicación no entorpezca la experiencia del usuario.
 
 **Bug**
+
 El bug se puede referir a dos situaciones. La primera, el programa no se comporta según las intenciones del programador, su creador. La segunda, las intenciones del informático no satisfacen las expectativas razonables del usuario.  No solo encontramos bug en el software, también lo encontramos en el hardware.
 
 **Cache** 
+
 El cache del sistema es una sección del almacenamiento interno que sirve de rápido acceso a las aplicaciones instaladas en el dispositivo, permite agilizar la carga de aplicaciones, tanto las nativas como las externas. Entre los daros considerados importantes están los siguientes 
 1.	Datos que se utilizan con frecuencia 
 2.	Datos complejos de generar 
 3.	Datos que se deben de utilizar juntos 
 
 **CI/CD: Integración continua y entrega continua al detalle** 
+
 Es un método para distribuir las aplicaciones a los clientes mediante el uso de la automatización en las etapas del desarrollo de aplicaciones.
 La integración continua es una filosofía de codificación y un conjunto de prácticas mientras que la entrega continua comienza donde termina la integración continua, automatiza la entrega de aplicaciones a determinados entornos de infraestructura.  
  
