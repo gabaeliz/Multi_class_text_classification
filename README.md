@@ -49,7 +49,9 @@ El cache del sistema es una sección del almacenamiento interno que sirve de rá
 
 Es un método para distribuir las aplicaciones a los clientes mediante el uso de la automatización en las etapas del desarrollo de aplicaciones.
 La integración continua es una filosofía de codificación y un conjunto de prácticas mientras que la entrega continua comienza donde termina la integración continua, automatiza la entrega de aplicaciones a determinados entornos de infraestructura.  
- 
+
+![CI_CD](C:/Users/Greic/Pictures/CI_CD.png)
+
 **Ciberseguridad**
 
 Es la práctica de proteger sistemas, redes y programas en contra de ataques maliciosos o ataques informáticos en el mundo digital. 
@@ -93,7 +95,9 @@ Las cookies son archivos que permiten guardar datos acerca de nuestras preferenc
 **CSS (Hojas de Estilo en Cascada)**
 
 Es el lenguaje de estilos utilizado para describir la presentación de documentos HTLML, XML (incluyendo SVG, MathML o XHTML). CSS describe como debe de ser renderizado el elemento estructurado en la pantalla, en papel, en el habla o en otros medios. 
-Anatomía de una regla CSS
+**Anatomía de una regla CSS**
+
+![CSS](C:/Users/Greic/Pictures/CSS.png)
  
 
 **DBA (Administrador de bases de datos)**
